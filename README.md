@@ -1,5 +1,5 @@
 # psa
-A networked pubsub library for Go.
+A networked pubsub library for Go. Making use of lock-free concurrent data structures, with our [lockless linked list component](https://github.com/garrettf/slll).
 
 Currently a work in progress.
 
